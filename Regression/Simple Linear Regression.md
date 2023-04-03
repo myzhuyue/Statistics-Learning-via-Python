@@ -15,6 +15,8 @@
 > conda update jupyterthemes
 >
 > conda install scikit-learn
+> 
+![简单线性回归理论](Simple-Linear-Regression-Theory.png)
 
 ## 最小二乘法（Least Square Method）
 
