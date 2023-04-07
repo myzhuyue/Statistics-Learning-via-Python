@@ -6,7 +6,7 @@
 
 今天的内容是关于回归分析中的线性回归模型，将通过Python来逐一讲解线性回归的定义和预测过程和结果。面向的受众可以是初学者，要求有一定的Python编程基础。
 
-需要的Anaconda
+需要的运行环境，可以通过Anaconda解决
 
 > 如果运行过程中提示组件不存在，可以通过命令进行安装，如下所示：
 > 
@@ -16,7 +16,7 @@
 >
 > conda install scikit-learn
 > 
-![简单线性回归理论](Simple-Linear-Regression-Theory.png)
+![简单线性回归理论](images/Simple-Linear-Regression-Theory.png)
 
 ## 最小二乘法（Least Square Method）
 
